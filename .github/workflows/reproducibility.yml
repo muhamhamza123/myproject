@@ -31,8 +31,7 @@ jobs:
         with:
           context: .
           push: ${{ github.event_name == 'push' }}
-          #tags: ghcr.io/${{ github.repository }}:latest
-          tags: ghcr.io/${{ github.repository_owner }}/myproject:latest
+          tags: ghcr.io/${{ github.repository }}:latest
 
   # Job 2: Run reproducibility script
   reproducibility:
