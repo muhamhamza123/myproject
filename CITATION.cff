@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+
+title: "Project DIWA"
+
+message: >
+  If you use this software, please cite it using the metadata below.
+  A Zenodo DOI will be provided when available.
+
+type: software
+
+authors:
+  - given-names: "hamza"
+    family-names: "hamza"
+    affiliation: "University of Oulu"
+    email: "hamzasahi72000@gmail.com"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+
+
+
+identifiers:
+  - type: url
+    value: "https://github.com/muhamhamza123/MyProject"
+    description: GitHub repository
+
+
+
+repository-code: "https://github.com/muhamhamza123/MyProject"
+
+url: "https://github.com/muhamhamza123/MyProject"
+
+abstract: >
+  my project test
+
+keywords:
+  - research
+  - open-science
+  - reproducibility
+
+license: "MIT"
+
+version: "0.1.0"
+
+date-released: "2026"

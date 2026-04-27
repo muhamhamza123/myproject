@@ -1,0 +1,8 @@
+jupyterlab>=4.0
+nbconvert>=7.0
+ipykernel
+notebook
+pandas
+numpy
+matplotlib
+geopandas
