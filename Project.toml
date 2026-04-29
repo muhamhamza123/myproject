@@ -1,5 +1,0 @@
-[deps]
-# leave empty if no external packages, or list them here
-
-[compat]
-julia = "1.3"
