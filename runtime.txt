@@ -1,1 +1,2 @@
 r-4.2-2023-01-01
+# R support enabled
