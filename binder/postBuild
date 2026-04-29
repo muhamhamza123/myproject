@@ -2,8 +2,5 @@
 # Register Python kernel
 python -m ipykernel install --user --name python3 --display-name "Python 3 (DIWA)"
 
-# Register R kernel
-Rscript -e "IRkernel::installspec()"
-
 # Register Julia kernel
 julia -e "using IJulia; installkernel(\"Julia\")"
