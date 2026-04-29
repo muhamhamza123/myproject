@@ -18,4 +18,5 @@ jobs:
         with:
           DOCKER_USERNAME: ${{ github.actor }}
           DOCKER_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
+          DOCKER_REGISTRY: ghcr.io
           IMAGE_NAME: ghcr.io/muhamhamza123/myproject
