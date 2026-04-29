@@ -1,6 +1,7 @@
 jupyterlab
 notebook
 nbconvert
+ipykernel
 geopandas
 pandas
 numpy
