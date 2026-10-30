@@ -119,3 +119,4 @@ Focus on graphically rich, interactive elements to communicate your research to 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/muhamhamza123/myproject/main?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2FSE1_data_access.ipynb)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eculler/repo2dockertest/main?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2FSE1_data_access.ipynb)
+[![Binder](https://hub.diwatools.com/badge_logo.svg)](https://hub.diwatools.com/v2/gh/muhamhamza123/myproject/HEAD)
