@@ -116,7 +116,3 @@ By contributing, you agree that your work will be released under the project’s
 Focus on graphically rich, interactive elements to communicate your research to diverse stakeholders.
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/muhamhamza123/myproject/main?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2FSE1_data_access.ipynb)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eculler/repo2dockertest/main?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2FSE1_data_access.ipynb)
-[![Binder](https://hub.diwatools.com/badge_logo.svg)](https://hub.diwatools.com/v2/gh/muhamhamza123/myproject/HEAD)
